@@ -3,98 +3,137 @@ title: Course Calendar
 ---
 
 9월 4일
-: [Introduction and Review](#)
+: [Introduction](#)
   :  **Reading:handout & Ch 1**{: .label .label-blue }
 
 9월 6일
-: [Density Estimation](#)
+: [Frequentist Inference](#)
+  :  **Reading:Ch 2**{: .label .label-blue }
 
 9월 11일
-: [Nonparametric Regression I](#)
+: [Bayesian Inference I](#)
+  :  **Reading:Ch 3**{: .label .label-blue }
 
 9월 13일
-: [Nonparametric Regression II](#)
+: [Bayesian Inference II](#)
+  :  **Reading:Ch 3**{: .label .label-blue }
+
+9월 15일
+:  **HW 1 due**{: .label .label-red }
 
 9월 18일
-: [High-dimensional Regression](#)
+: [Fisherian Inference I](#)
+  :  **Reading:Ch 4**{: .label .label-blue }
 
 9월 20일
-: [Classification I](#)
-  :  **HW 1 due**{: .label .label-blue }
+: [Fisherian Inference II](#)
+  :  **Reading:Ch 4**{: .label .label-blue }
 
 9월 25일
-: [Classification II](#)
+: [Exponential Families I](#)
+  :  **Reading:Ch 5**{: .label .label-blue }
 
 9월 27일
-: [Clustering I](#)
+: [Exponential Families II](#)
+:  **HW 2 due**{: .label .label-red }
+  :  **Reading:Ch 5**{: .label .label-blue }
 
 10월 2일
-: [Clustering II](#)
+: [Empirical Bayes I](#)
+  :  **Reading:Ch 6**{: .label .label-blue }
 
 10월 4일
-: **Exam 1**{: .label .label-green }
-  :  **HW 2 due**{: .label .label-red }
+: [Empirical Bayes II](#)
+  :  **Reading:Ch 6**{: .label .label-blue }
 
 10월 9일
 : [한글날 (공휴일)](#)
 
 10월 11일
-: [Probabilistic Graphical Models](#)
+: [Shrinkage Estimation I](#)
+  :  **Reading:Ch 7**{: .label .label-blue }
+
+10월 15일
+:  **HW 3 due**{: .label .label-red }
 
 10월 16일
-: [Bayesian Networks I](#)
+: [Shrinkage Estimation II](#)
+  :  **Reading:Ch 7**{: .label .label-blue }
 
 10월 18일
-: [Bayesian Networks II](#)
+: [GLM I](#)
+  :  **Reading:Ch 8**{: .label .label-blue }
 
 10월 23일
-: [Markov Random Fields](#)
-  :  **HW 3 due**{: .label .label-red }
+: [GLM I](#)
+  :  **Reading:Ch 8**{: .label .label-blue }
 
 10월 25일
-: [Unified View of BN and MRF](#)
+: **중간고사**{: .label .label-green }
 
 10월 30일
-: [Gaussian Network Models](#)
+: [Survival Analysis I](#)
+  :  **Reading:Ch 9**{: .label .label-blue }
 
 11월 1일
-: [Causality I](#)
+: [Survival Analysis II](#)
+  :  **Reading:Ch 9**{: .label .label-blue }
+
+11월 3일
+:  **HW 4 due**{: .label .label-red }
 
 11월 6일
-: [Causality II](#)
+: [Resampling I](#)
+  :  **Reading:Ch 10**{: .label .label-blue }
 
 11월 8일
-: **Exam 2**{: .label .label-green }
-  :  **HW 4 due**{: .label .label-red }
+: [Resampling II](#)
+  :  **Reading:Ch 10**{: .label .label-blue }
 
 11월 13일
-: [Nonparametric Bayesian Inference](#)
+: [Bootstrap Confidence Intervals I](#)
+  :  **Reading:Ch 11**{: .label .label-blue }
 
 11월 15일
-: [Concentration Inequality](#)
+: [Bootstrap Confidence Intervals II](#)
+:  **HW 5 due**{: .label .label-red }
+  :  **Reading:Ch 11**{: .label .label-blue }
 
 11월 20일
-: [Minimax Theory I](#)
+: [Cross Validation I](#)
+  :  **Reading:Ch 12**{: .label .label-blue }
 
 11월 22일
-: [Minimax Theory II](#)
-  :  **HW 5 due**{: .label .label-red }
+: [Cross Validation II](#)
+  :  **Reading:Ch 12**{: .label .label-blue }
 
 11월 27일
-: [Conformal Prediction](#)
+: [Objective Bayes Inference](#)
+  :  **Reading:Ch 13**{: .label .label-blue }
 
 11월 29일
-: [Differential Privacy](#)
+: [MCMC](#)
+  :  **Reading:Ch 13**{: .label .label-blue }
+
+12월 1일
+:  **HW 6 due**{: .label .label-red }
 
 12월 4일
-: [Wasserstein Distance and Optimal Transport](#)
+: [Multiple Testing I](#)
+  :  **Reading:Ch 15**{: .label .label-blue }
 
 12월 6일
-: [High-dimensional Two Sample Testing](#)
-  :  **HW 6 due**{: .label .label-red }
+: [Multiple Testing II](#)
+  :  **Reading:Ch 15**{: .label .label-blue }
 
 12월 11일
-: [Dimension Reduction](#)
+: [Post-Selection Inference I](#)
+  :  **Reading:Ch 15**{: .label .label-blue }
 
 12월 13일
-: **Exam 3**{: .label .label-green }
+: [Post-Selection Inference II](#)
+  :  **Reading:Ch 15**{: .label .label-blue }
+
+12월 15일
+: **기말고사**{: .label .label-green }
+:  **HW 7 due**{: .label .label-red }
