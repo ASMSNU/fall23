@@ -35,8 +35,8 @@ title: Course Calendar
 
 9월 27일
 : [Exponential Families II](#)
-:  **HW 2 due**{: .label .label-red }
   :  **Reading:Ch 5**{: .label .label-blue }
+:  **HW 2 due**{: .label .label-red }
 
 10월 2일
 : [Empirical Bayes I](#)
@@ -96,8 +96,8 @@ title: Course Calendar
 
 11월 15일
 : [Bootstrap Confidence Intervals II](#)
-:  **HW 5 due**{: .label .label-red }
   :  **Reading:Ch 11**{: .label .label-blue }
+:  **HW 5 due**{: .label .label-red }
 
 11월 20일
 : [Cross Validation I](#)
@@ -136,4 +136,4 @@ title: Course Calendar
 
 12월 15일
 : **기말고사**{: .label .label-green }
-:  **HW 7 due**{: .label .label-red }
+: **HW 7 due**{: .label .label-red }
