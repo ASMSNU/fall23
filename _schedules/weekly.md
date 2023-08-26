@@ -38,9 +38,9 @@ schedule:
         location: 25동 323호
   - name: Thursday
   - name: Friday
+    events:
       - name: Office Hours
       start: 10:00 AM
       end: 12:00 PM
       location: 25동 305호
-
 ---
