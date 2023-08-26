@@ -4,6 +4,7 @@ title: Course Calendar
 
 9월 4일
 : [Introduction and Review](#)
+  :  **Reading:handout & Ch 1**{: .label .label-blue }
 
 9월 6일
 : [Density Estimation](#)
@@ -19,7 +20,7 @@ title: Course Calendar
 
 9월 20일
 : [Classification I](#)
-  :  **HW 1 due**{: .label .label-red }
+  :  **HW 1 due**{: .label .label-blue }
 
 9월 25일
 : [Classification II](#)
