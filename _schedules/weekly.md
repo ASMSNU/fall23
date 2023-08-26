@@ -22,25 +22,25 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 2:00 PM
-        end: 3:15 PM
-        location: 43-1동 101호
-      - name: Office Hours
-        start: 4:00 PM
-        end: 6:00 PM
-        location: 25동 320호
+        start: 11:00 AM
+        end: 12:15 PM
+        location: 25동 210호
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 2:00 PM
-        end: 3:15 PM
-        location: 43-1동 101호
+        start: 11:00 AM
+        end: 12:15 PM
+        location: 25동 210호
       - name: Office Hours
         start: 4:00 PM
         end: 6:00 PM
-        location: 25동 320호
+        location: 25동 323호
   - name: Thursday
   - name: Friday
+      - name: Office Hours
+      start: 10:00 AM
+      end: 12:00 PM
+      location: 25동 305호
 
 ---
