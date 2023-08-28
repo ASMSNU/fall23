@@ -3,7 +3,7 @@ title: Course Calendar
 ---
 
 9월 4일
-: [Introduction](#)
+: [Introduction](/downloads/asm_lecture1.pdf)
   :  **Reading:handout & Ch 1**{: .label .label-blue }
 
 9월 6일
