@@ -3,7 +3,7 @@ title: Course Calendar
 ---
 
 9월 4일
-: [Introduction]({{ site.url }}/downloads/lecture1.pdf)
+: [Introduction]({{ site.url }}/fall23/downloads/lecture1.pdf)
   :  **Reading:handout & Ch 1**{: .label .label-blue }
 
 9월 6일
