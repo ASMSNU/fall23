@@ -38,8 +38,8 @@ description: >-
 
 강의는 Efron and Hastie (2021)를 기반으로 진행될 예정이다.
 
-1.  Efron, B. and Hastie, T. (2021). Computer Age Statistical Inference: Algorithms, Ev- idence, and Data Science, Student Edition. Cambridge University Press. ISBN 978- 1108823418 (교재) - Available at https://hastie.su.domains/CASI/index.html.
-2. Hastie, T., Tibshirani, R. and Friedman, J. (2009). The Elements of Statistical Learn- ing: Data Mining, Inference, and Prediction, 2nd edition. Springer. ISBN 978-0387848570. (참고문헌) - Available at https://web.stanford.edu/~hastie/ElemStatLearn/.
+1.  Efron, B. and Hastie, T. (2021). Computer Age Statistical Inference: Algorithms, Ev- idence, and Data Science, Student Edition. Cambridge University Press. ISBN 978- 1108823418 (교재) - Available at [https://hastie.su.domains/CASI/index.html](https://hastie.su.domains/CASI/index.html).
+2. Hastie, T., Tibshirani, R. and Friedman, J. (2009). The Elements of Statistical Learn- ing: Data Mining, Inference, and Prediction, 2nd edition. Springer. ISBN 978-0387848570. (참고문헌) - Available at [https://web.stanford.edu/~hastie/ElemStatLearn/](https://web.stanford.edu/~hastie/ElemStatLearn/).
 3. Murphy, P. K. (2022). Probabilistic Machine Learning: An Introduction. ISBN 978- 0262046824. (참고문헌).,.Available at https://probml.github.io/pml-book/book1. html.
 4. Wasserman, L. (2004). All of Statistics: Concise Course in Statistical Inference. Springer. ISBN 978-0387402727. (참고문헌) - Available at http://link.springer.com/book/ 10.1007/978-0-387-21736-9 on campus
 
