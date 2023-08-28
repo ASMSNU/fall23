@@ -40,8 +40,8 @@ description: >-
 
 1.  Efron, B. and Hastie, T. (2021). Computer Age Statistical Inference: Algorithms, Ev- idence, and Data Science, Student Edition. Cambridge University Press. ISBN 978- 1108823418 (교재) - Available at [https://hastie.su.domains/CASI/index.html](https://hastie.su.domains/CASI/index.html).
 2. Hastie, T., Tibshirani, R. and Friedman, J. (2009). The Elements of Statistical Learn- ing: Data Mining, Inference, and Prediction, 2nd edition. Springer. ISBN 978-0387848570. (참고문헌) - Available at [https://web.stanford.edu/~hastie/ElemStatLearn/](https://web.stanford.edu/~hastie/ElemStatLearn/).
-3. Murphy, P. K. (2022). Probabilistic Machine Learning: An Introduction. ISBN 978- 0262046824. (참고문헌).,.Available at https://probml.github.io/pml-book/book1. html.
-4. Wasserman, L. (2004). All of Statistics: Concise Course in Statistical Inference. Springer. ISBN 978-0387402727. (참고문헌) - Available at http://link.springer.com/book/ 10.1007/978-0-387-21736-9 on campus
+3. Murphy, P. K. (2022). Probabilistic Machine Learning: An Introduction. ISBN 978- 0262046824. (참고문헌),Available at [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html) .
+4. Wasserman, L. (2004). All of Statistics: Concise Course in Statistical Inference. Springer. ISBN 978-0387402727. (참고문헌) - Available at [http://link.springer.com/book/10.1007/978-0-387-21736-9](http://link.springer.com/book/10.1007/978-0-387-21736-9) on campus
 
 ## 평가방법
 
@@ -63,5 +63,5 @@ description: >-
 
 ## 프로그래밍 언어
 
-이 과목에서 사용되는 예제는 모두 R를 사용하여 분석결과를 제시할 예정이다. R은 통계분석에 최적화된 언어로 파이썬, Matlab과 비교시 자료분석에 있어서 여러가지 장점이 있다. R에 관한 다양한 튜터리얼과 참고문헌은 http://www.r-project.org에서 찾아볼 수 있으며 R에 과한 (조금 오래된) 뉴욕타임즈의 기사는 https://www.nytimes.com/2009/01/07/technology/ business-computing/07program.html에서 읽을 수 있다. 한국어로 된 참고문헌으로는 R for Practical Data Analysis (http://r4pda.co.kr/ )이나 권재명 (2017) 따라하면서 배우는 데이터 과학 (http://dataninja.me/ipds-kr/)을 추천한다.
+이 과목에서 사용되는 예제는 모두 R를 사용하여 분석결과를 제시할 예정이다. R은 통계분석에 최적화된 언어로 파이썬, Matlab과 비교시 자료분석에 있어서 여러가지 장점이 있다. R에 관한 다양한 튜터리얼과 참고문헌은 [http://www.r-project.org](http://www.r-project.org) 에서 찾아볼 수 있으며 R에 과한 (조금 오래된) 뉴욕타임즈의 기사는 [https://www.nytimes.com/2009/01/07/technology/business-computing/07program.html](https://www.nytimes.com/2009/01/07/technology/business-computing/07program.html)에서 읽을 수 있다. 한국어로 된 참고문헌으로는 R for Practical Data Analysis [http://r4pda.co.kr/](http://r4pda.co.kr/) 이나 권재명 (2017) 따라하면서 배우는 데이터 과학 [http://dataninja.me/ipds-kr/](http://dataninja.me/ipds-kr/)을 추천한다.
 
