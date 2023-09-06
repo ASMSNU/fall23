@@ -7,7 +7,7 @@ title: Course Calendar
   :  **Reading:handout & Ch 1**{: .label .label-blue }
 
 9월 6일
-: [Frequentist Inference](#)
+: [Frequentist Inference](/fall23/downloads/lecture2.pdf)
   :  **Reading:Ch 2**{: .label .label-blue }
 
 9월 11일
