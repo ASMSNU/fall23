@@ -32,43 +32,46 @@ title: Course Calendar
 9월 25일
 : [Exponential Families I](#)
   :  **Reading:Ch 5**{: .label .label-blue }
+:  **HW 2 due**{: .label .label-red }
 
 9월 27일
 : [Exponential Families II](#)
   :  **Reading:Ch 5**{: .label .label-blue }
-:  **HW 2 due**{: .label .label-red }
 
 10월 2일
+: [임시공휴일](#)
+
+10월 4일
 : [Empirical Bayes I](#)
   :  **Reading:Ch 6**{: .label .label-blue }
 
-10월 4일
+10월 9일
 : [Empirical Bayes II](#)
   :  **Reading:Ch 6**{: .label .label-blue }
 
-10월 9일
-: [한글날 (공휴일)](#)
-
 10월 11일
-: [Shrinkage Estimation I](#)
-  :  **Reading:Ch 7**{: .label .label-blue }
+: [한글날 (공휴일)](#)
 
 10월 15일
 :  **HW 3 due**{: .label .label-red }
 
 10월 16일
-: [Shrinkage Estimation II](#)
+: [Shrinkage Estimation I](#)
   :  **Reading:Ch 7**{: .label .label-blue }
 
 10월 18일
-: [GLM I](#)
-  :  **Reading:Ch 8**{: .label .label-blue }
+: [Shrinkage Estimation II](#)
+  :  **Reading:Ch 7**{: .label .label-blue }
 
 10월 23일
 : [GLM I](#)
   :  **Reading:Ch 8**{: .label .label-blue }
 
 10월 25일
+: [GLM I](#)
+  :  **Reading:Ch 8**{: .label .label-blue }
+
+10월 27일
 : **중간고사**{: .label .label-green }
 
 10월 30일
