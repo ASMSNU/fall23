@@ -11,7 +11,7 @@ title: Course Calendar
   :  **Reading:Ch 2**{: .label .label-blue }
 
 9월 11일
-: [Bayesian Inference I](#)
+: [Bayesian Inference I](/fall23/downloads/lecture_ch3a.pdf)
   :  **Reading:Ch 3**{: .label .label-blue }
 
 9월 13일
