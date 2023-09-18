@@ -15,14 +15,14 @@ title: Course Calendar
   :  **Reading:Ch 3**{: .label .label-blue }
 
 9월 13일
-: [Bayesian Inference II](#)
+: [Bayesian Inference II](/fall23/downloads/lecture_ch3.pdf)
   :  **Reading:Ch 3**{: .label .label-blue }
 
 9월 15일
 :  **HW 1 due**{: .label .label-red }
 
 9월 18일
-: [Fisherian Inference I](#)
+: [Fisherian Inference I](/fall23/downloads/lecture_ch4.pdf)
   :  **Reading:Ch 4**{: .label .label-blue }
 
 9월 20일
